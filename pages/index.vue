@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <Tutorial />
-  </div>
+  <body class="bg-green-400">
+    <h1>Hello</h1>
+  </body>
 </template>
 
 <script lang="ts">
