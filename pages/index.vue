@@ -9,7 +9,7 @@
           <span class="text-red-600">Unlock your potential.</span></h1>
         <p class="mt-2 text-gray-600 sm:mt-4 sm:text-xl">Our personal development programmes will help develop your confidence. Try new things, meet new people and develop essential skills at the same time.</p>
         <div class="mt-4">
-          <a class="bg-red-500 px-5 py-3 inline-block rounded-lg shadow-lg text-white uppercase tracking-wider font-semibold text-sm sm:text-base" href="#">Book your first step</a>
+          <a class="bg-red-500 hover:bg-red-400 hover:-translate-y-0.5 transform transition focus:outline-none focus:ring focus:ring-offset-2 focus:ring-red-500 active:bg-red-600 px-5 py-3 inline-block rounded-lg shadow-lg text-white uppercase tracking-wider font-semibold text-sm sm:text-base" href="#">Book your first step</a>
         </div>
       </div> 
       <div class="hidden relative lg:block">
